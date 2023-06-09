@@ -8,6 +8,10 @@ This is a simple weather application built using HTML5, CSS3, and JavaScript. It
 - Five-day weather forecast displaying temperature and weather conditions.
 - Responsive design that works well on different screen sizes.
 
+### Demo
+
+You can try out the Weather App by visiting the live demo <a href='https://igrbrasaic.github.io/weather-app/' style='text-decoration:none;'>here</a>
+
 ### Screenshots
 
 <img src='./imgs/weather-app.png' alt='This is The Weather App Pic' />
