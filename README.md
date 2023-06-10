@@ -10,7 +10,7 @@ This is a simple weather application built using HTML5, CSS3, and JavaScript. It
 
 ### Demo
 
-You can try out the Weather App by visiting the live demo <a href='https://igrbrasaic.github.io/weather-app/' style='text-decoration:none;'>here</a>
+You can try out the Weather App by visiting the live demo <a href='https://youssefsaki.github.io/weather-app/' style='text-decoration:none;'>here</a>
 
 ### Screenshots
 
@@ -20,7 +20,7 @@ You can try out the Weather App by visiting the live demo <a href='https://igrbr
 
 To run the Weather App locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/igrbrasaic/weather-app.git`
+1. Clone the repository: `git clone https://github.com/youssefsaki/weather-app.git`
 2. Open the project directory: `cd weather-app`
 3. Open `index.html` in your web browser.
 
